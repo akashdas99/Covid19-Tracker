@@ -31,7 +31,11 @@ samples, guidance on mobile development, and a full API reference.
 - Graphical Representation of Cases
 
 ## 📸 Screenshots
-To be Added
+<img src="https://user-images.githubusercontent.com/52244138/98238400-55c83a00-1f8c-11eb-812e-93db436e6807.jpg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/52244138/98240405-5adab880-1f8f-11eb-8adf-3a03bb90c6aa.jpg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/52244138/98240475-7940b400-1f8f-11eb-8aec-76aa7fb5c78c.jpg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/52244138/98240479-7a71e100-1f8f-11eb-8d6d-857663c08290.jpg" alt="Your image title" width="250"/>
+
 ## 🔌 Plugins
 | Name | Usage |
 |:------:|:-------:|
